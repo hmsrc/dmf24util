@@ -1,0 +1,9 @@
+*.swp
+.ruby-version
+*~
+\#*\#
+*.pyc
+*.egg-info
+*.egg-info/
+Gemfile.lock
+dist/
